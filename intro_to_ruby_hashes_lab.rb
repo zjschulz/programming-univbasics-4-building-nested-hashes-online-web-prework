@@ -38,5 +38,4 @@ def monopoly_with_fourth_tier
   }
   }
   }
-  puts monopoly[:railroads][:names]
 end
