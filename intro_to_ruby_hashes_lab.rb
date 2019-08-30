@@ -38,5 +38,5 @@ def monopoly_with_fourth_tier
   }
   }
   }
-  puts monopoly["mortage_value"]
+  puts monopoly[]
 end
