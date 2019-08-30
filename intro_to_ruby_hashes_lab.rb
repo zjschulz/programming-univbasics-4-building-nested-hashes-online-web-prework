@@ -38,5 +38,5 @@ def monopoly_with_fourth_tier
   }
   }
   }
-  return monopoly{"mortgage_value"}
+  monopoly["mortage_value"]
 end
